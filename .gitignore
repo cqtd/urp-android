@@ -11,6 +11,8 @@
 /.idea/
 /[Mm]emoryCaptures/
 [[Cc]ontainer/
+/Assets/Editor/Beebyte/
+/Assets/Plugins/Beebyte/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta

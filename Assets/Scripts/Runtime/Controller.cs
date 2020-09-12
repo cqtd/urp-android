@@ -2,7 +2,7 @@
 
 namespace UnityEngine.Cinemachine
 {
-    public class SimpleCameraController : MonoBehaviour
+    public class Controller : MonoBehaviour
     {
         class CameraState
         {
